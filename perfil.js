@@ -2,7 +2,7 @@ function Profile() {
   return (
     <img
       src="https://react.dev/images/docs/scientists/MK3eW3As.jpg"
-      alt="Katherine Johnson"
+      alt="jll"
     />
   );
 }
@@ -10,7 +10,7 @@ function Profile() {
 export default function Gallery() {
   return (
     <section>
-      <h1>cientista</h1>
+      <h1>Mario kk</h1>
       <Profile />
       <Profile />
       <Profile />
