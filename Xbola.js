@@ -19,3 +19,5 @@ const nextSquares = squares.slice();
     }
     onPlay(nextSquares);
   }
+  const winner = calculateWinner(squares);
+  
