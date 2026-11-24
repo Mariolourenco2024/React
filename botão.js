@@ -5,11 +5,10 @@ function MyButton() {
     </button>
   );
 }
-
 export default function MyApp() {
   return (
     <div>
-      <h1>seja bem-vindo ao meu app</h1>
+      <h1>seja bem vindo ao meu app</h1>
       <MyButton />
     </div>
   );
