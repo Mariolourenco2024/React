@@ -2,11 +2,10 @@ function Profile() {
   return (
     <img
       src="https://react.dev/images/docs/scientists/MK3eW3As.jpg"
-      alt="jll"
+      alt="mar"
     />
   );
 }
-
 export default function Gallery() {
   return (
     <section>
