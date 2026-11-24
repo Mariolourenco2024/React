@@ -25,3 +25,6 @@ const nextSquares = squares.slice();
   if (winner) {
     status = 'Winner: ' + winner;
   } else {
+        status = 'Next player: ' + (xIsNext ? 'X' : 'O');
+  }
+
