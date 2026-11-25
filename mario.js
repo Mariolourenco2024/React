@@ -9,7 +9,7 @@ export default function Header() {
           <li><a href="/">Início de tudo</a></li>
           <li><a href="/sobre">Sobre Maro</a></li>
           <li><a href="/projetos">Projetos ma</a></li>
-          <li><a href="/contacto">Contacto</a></li>
+          <li><a href="/contacto">Contacto lou</a></li>
         </ul>
   </nav>
    </header>
