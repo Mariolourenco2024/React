@@ -13,10 +13,7 @@ export default function Header() {
           <li><a href="/contacto">Contacto</a></li>
         </ul>
   </nav>
-  
-  
    </header>
-   
  );
   
 }
