@@ -4,6 +4,8 @@ export default function Header() {
  <div className="logo">
   <h2>Mario</h2>
   </div>
+
+  <nav className="nav-links">
   
    </header>
    
