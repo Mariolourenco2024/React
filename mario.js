@@ -8,7 +8,7 @@ export default function Header() {
   <nav className="nav-links">
    <ul className="nav-links">
           <li><a href="/">Início</a></li>
-          <li><a href="/sobre">Sobre</a></li>
+          <li><a href="/sobre">Sobre Mario</a></li>
           <li><a href="/projetos">Projetos</a></li>
           <li><a href="/contacto">Contacto</a></li>
         </ul>
