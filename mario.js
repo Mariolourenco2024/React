@@ -6,6 +6,7 @@ export default function Header() {
   </div>
 
   <nav className="nav-links">
+  </nav>
   
    </header>
    
