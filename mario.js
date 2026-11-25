@@ -6,7 +6,7 @@ export default function Header() {
   </div>
   <nav className="nav-links">
    <ul className="nav-links">
-          <li><a href="/">Início de tudo</a></li>
+          <li><a href="/">Início de</a></li>
           <li><a href="/sobre">Sobre Maro</a></li>
           <li><a href="/projetos">Projetos ma</a></li>
           <li><a href="/contacto">Contacto lou</a></li>
