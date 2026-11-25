@@ -9,7 +9,7 @@ function Profile() {
 export default function Gallery() {
   return (
     <section>
-      <h1>Mario Lourenco</h1>
+      <h1> Mario Lourenco</h1>
       <Profile />
       <Profile />
       <Profile />
