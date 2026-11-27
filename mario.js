@@ -9,8 +9,8 @@ export default function Header() {
    <ul className="nav-links">
           <li><a href="/">Início de</a></li>
           <li><a href="/sobre">Sobre Mario LOURENCO</a></li>
-          <li><a href="/projetos">Projetos ma</a></li>
-          <li><a href="/contacto">Contacto lou</a></li>
+          <li><a href="/projetos">Projetos marioo</a></li>
+          <li><a href="/contacto">Contacto lourenco</a></li>
         </ul>
   </nav>
    </header>
